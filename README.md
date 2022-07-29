@@ -1,4 +1,4 @@
-Hi, I am Elochukwu Chukwubuikem Joseph, a Final Year Computer Science Student at Nigeria's Federal University of Technology Owerri, and a Student Cloud Developer at Udacity.
+Hi, I am **Elochukwu Chukwubuikem Joseph**, a Final Year Computer Science Student at Nigeria's Federal University of Technology Owerri, and a Student Cloud Developer at Udacity.
 
 I have a great interest in artificial intelligence, cloud computing, User experience development, and building usable, accessible, and equity-based software projects.
 

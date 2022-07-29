@@ -1,12 +1,10 @@
-Hi, I am **Elochukwu Chukwubuikem Joseph**, a Final Year Computer Science Student at Nigeria's Federeal University of Technology Owerri, and a Student Cloud Developer at Udacity.
+Hi, I am Elochukwu Chukwubuikem Joseph, a Final Year Computer Science Student at Nigeria's Federal University of Technology Owerri, and a Student Cloud Developer at Udacity.
 
-I have great interest in artificial intelligence, cloud computing, User Exeperience development and also being able to build usable, accessible and equity-based software prooducts.
+I have a great interest in artificial intelligence, cloud computing, User experience development, and building usable, accessible, and equity-based software projects.
 
-Currently, I am undergoing trainings with Udacity under the ALX-T Schorlaship as a Cloud Developer on AWS, Pluralsight under the Google Africa Developer Scholarship (GADS 2022) as a Cloud Engineer on GCP. 
-I am also taking some paid courses on Coursera on the Python 3 programming and Google UX Professional Specializations.
+Currently, I am undergoing training with Udacity under the ALX-T Scholarship as a Cloud Developer on AWS, and Pluralsight under the Google Africa Developer Scholarship (GADS 2022) as a Cloud Engineer on GCP. I am also taking some paid courses on Coursera on Python 3 programming and Google UX Professional Specializations.
 
-I am looking to collaborate on cloud based software development projects, and also searching for internships or entry level positions to apply my skills.
-In future, I'll also like to explore and develop myself in other areas of interest and be useful to humanity.
+I am looking to collaborate on cloud-based software development projects and searching for internships or entry-level positions to apply my skills. In the future, I'll also like to explore and develop myself in other areas of interest and be helpful to humanity.
 
 You can reach me via
 - Twitter: @ELOCHUKWUCHUKW4

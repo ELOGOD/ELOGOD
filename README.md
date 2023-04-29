@@ -8,7 +8,7 @@ I am looking to collaborate on cloud-based software development projects and sea
 
 You can reach me via
 - Twitter: @ELOCHUKWUCHUKW4
-- LinkedIn: https://www.linkedin.com/in/chukwubuikem-elochukwu-1508b7190
+- LinkedIn: https://www.linkedin.com/in/chukwubuikem-elochukwu-gmcpn-1508b7190
 
 <!---
 ELOGOD/ELOGOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
